@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pre-commit": "webpack"
+    "build": "webpack"
   },
+  pre-commit: [
+    "build"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lframnes/fw.git"
