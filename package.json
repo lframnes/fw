@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/lframnes/fw#readme",
   "peerDependencies": {
-    "prop-types": "^15.5.8",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "prop-types": "^15.5.0",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
